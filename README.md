@@ -2,7 +2,7 @@
 Repository for CHAOSS Microtasks. 
 
 ## About Me
-I am a second year Computer Engineering Student at Mumbai University.I am expected to graduate in June 2023. I have interest in data analysis. I can code in C/C++, dart, python, javascript. I also have some knowledge about pandas, numpy, matplotlib.Apart from this ,I have intermediate knowledge in frameworks like Django and Flutter(for cross-platform mobile apps).
+I am a second year Computer Engineering Student at Mumbai University.I am expected to graduate in June 2023. I have interest in data analysis. I can code in C/C++, dart, python, javascript. I also have some knowledge about pandas, numpy, matplotlib.Apart from this ,I have intermediate knowledge in frameworks like Django and Flutter(for cross-platform mobile apps).  
 [My Proposal](https://docs.google.com/document/d/1c1pNL9umsUlCO49zeUm6vT9zYvbtqTmbSZsVVEGFQ9Y/edit)
 
 ## MicroTasks
