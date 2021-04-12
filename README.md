@@ -13,7 +13,7 @@ I am a second year Computer Engineering Student at Mumbai University.I am expect
 - [x] **Microtask 2:** Identify new issues you encounter during installation. -
 I made an issue on augur github repository regarding issues that I faced during installation [#1134](https://github.com/chaoss/augur/issues/1134)
 
-- [x] **Microtask 3:** Build a jupyter notebook to identify software dependencies, or build software dependency metrics using one of the identified tools. - Link to the jupyter notebook github - https://github.com/Dhruv-Sachdev1313/microtasks-chaoss-2021/blob/main/dependencies_analysis.ipynb. But Since sometime github jupyter viewing tool doesn't work so if you want only to view jupyter notebook only you can use this link - https://nbviewer.jupyter.org/github/Dhruv-Sachdev1313/microtasks-chaoss-2021/blob/main/dependencies_analysis.ipynb 
+- [x] **Microtask 3:** Build a jupyter notebook to identify software dependencies, or build software dependency metrics using one of the identified tools. - Link to the jupyter notebook github - https://github.com/Dhruv-Sachdev1313/microtasks-chaoss-2021/blob/main/dependencies_analysis.ipynb. But Since sometime github jupyter viewing tool doesn't work so if you want only to view jupyter notebook, you can use this link - https://nbviewer.jupyter.org/github/Dhruv-Sachdev1313/microtasks-chaoss-2021/blob/main/dependencies_analysis.ipynb 
 
 - [x] **Microtask 4:** Anything you want to show us. Even if you find bugs in our documentation and want to issue a PR for those!
 
