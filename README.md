@@ -15,7 +15,7 @@ I made an issue on augur github repository regarding issues that I faced during 
 
 - [x] **Microtask 3:** Build a jupyter notebook to identify software dependencies, or build software dependency metrics using one of the identified tools. - Link to the jupyter notebook github - https://github.com/Dhruv-Sachdev1313/microtasks-chaoss-2021/blob/main/dependencies_analysis.ipynb. But Since sometime github jupyter viewing tool doesn't work so if you want only to view jupyter notebook, you can use this link - https://nbviewer.jupyter.org/github/Dhruv-Sachdev1313/microtasks-chaoss-2021/blob/main/dependencies_analysis.ipynb 
 
-- [x] **Microtask 4:** Anything you want to show us. Even if you find bugs in our documentation and want to issue a PR for those! - I think in the augur documentation we can show them to make their user, super user by ` ALTER USER myuser WITH SUPERUSER; `  for anyone who would be creating the databse while running ` make install ` by choosing the option 1 .
+- [x] **Microtask 4:** Anything you want to show us. Even if you find bugs in our documentation and want to issue a PR for those!  -   I think in the augur documentation we can show them to make their user, super user by ` ALTER USER myuser WITH SUPERUSER; `  for anyone who would be creating the databse while running ` make install ` by choosing the option 1 .
 
 
 
